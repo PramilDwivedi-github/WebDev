@@ -1,0 +1,23 @@
+.App {
+  display:inline-block;
+  width: 100%;
+  justify-content: center;
+}
+
+#header{
+  display: inline-flex;
+  width:100%;
+  height:60px;
+  background: darkblue;
+  color:whitesmoke;
+  justify-content: center;
+}
+h2{
+  align-items: center;
+}
+
+
+
+
+
+
