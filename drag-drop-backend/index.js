@@ -5,7 +5,7 @@ const os = require('os');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 
-console.log("hello")
+
 const app = express();
 
 app.use(bodyParser.urlencoded({extended:false}));
